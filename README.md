@@ -1,4 +1,4 @@
-# 🏫✨ CADASTRO DE ALUNOS 📚👩‍🎓👨‍🎓
+# 🏫 CADASTRO DE ALUNOS 📚
 
 Este manual mostra como ⚙️ configurar e ▶️ rodar o sistema de __Cadastro de Alunos__ usando 🚀 Spring Boot.  
 Se você seguir cada passo 🪜, no final vai abrir o navegador 🌐 e digitar `localhost:8088` 🎯.  
